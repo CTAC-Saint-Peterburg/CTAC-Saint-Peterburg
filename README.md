@@ -1,11 +1,9 @@
-### Hi there 👋
+### hello comrade 👋 My name is Stas and I greet you😊
 
 <!--
 **CTAC-Saint-Peterburg/CTAC-Saint-Peterburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+![final](https://user-images.githubusercontent.com/75452402/180285535-b306eea7-0ea7-4b3c-b678-132db69586e6.gif)
+###- 🔭 I’m currently working on Canvas game engine called Clear-Canvas🧠
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
