@@ -17,4 +17,4 @@
 - Socket.IO
 - Mockapi.IO
 - Adobe products
-- Gihub + NPM
+- Github + NPM
